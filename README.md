@@ -6,6 +6,10 @@
     Project Manager
     
 - 🌱 I’m currently learning ...
+      React
+      Express
+      NodeJS
+      Python
   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
