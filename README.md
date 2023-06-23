@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
     Web Develop
     Devops
-    Scrum 
+    Scrum
+    Project Manager
     
 - 🌱 I’m currently learning ...
   
